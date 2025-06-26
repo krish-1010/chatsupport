@@ -1,4 +1,4 @@
-# Loyola Support Chat Application
+# Loyola Support Chat Application using Langflow
 
 This project is a full-stack AI-powered chat support widget for a website, designed as a Q&A assistant for Loyola College. The backend leverages [Langflow](https://github.com/langflow-ai/langflow) to handle language model flows, while the frontend features a persistent React chat widget built with Next.js and Tailwind CSS. All chat interactions are logged for record-keeping and improvement.
 
