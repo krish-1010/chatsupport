@@ -1,0 +1,298 @@
+[
+  {
+    "user": "hi",
+    "ai": {
+      "session_id": "user_1",
+      "outputs": [
+        {
+          "inputs": {
+            "input_value": "hi"
+          },
+          "outputs": [
+            {
+              "results": {
+                "message": {
+                  "text_key": "text",
+                  "data": {
+                    "timestamp": "2025-05-30 15:24:39 UTC",
+                    "sender": "Machine",
+                    "sender_name": "AI",
+                    "session_id": "user_1",
+                    "text": "Hey there! Great to see you here! How can I help you get started with building something awesome using generative AI today? 😊",
+                    "files": [],
+                    "error": false,
+                    "edit": false,
+                    "properties": {
+                      "text_color": "",
+                      "background_color": "",
+                      "edited": false,
+                      "source": {
+                        "id": "OpenAIModel-zdbzF",
+                        "display_name": "OpenAI",
+                        "source": "gpt-4.1-mini"
+                      },
+                      "icon": "OpenAI",
+                      "allow_markdown": false,
+                      "positive_feedback": null,
+                      "state": "complete",
+                      "targets": []
+                    },
+                    "category": "message",
+                    "content_blocks": [],
+                    "id": "e629714a-fbc8-4f92-bc64-21e470e5b054",
+                    "flow_id": "2a6bbeb0-801d-49f1-833e-cd5e27100f11",
+                    "duration": null
+                  },
+                  "default_value": "",
+                  "text": "Hey there! Great to see you here! How can I help you get started with building something awesome using generative AI today? 😊",
+                  "sender": "Machine",
+                  "sender_name": "AI",
+                  "files": [],
+                  "session_id": "user_1",
+                  "timestamp": "2025-05-30T15:24:39+00:00",
+                  "flow_id": "2a6bbeb0-801d-49f1-833e-cd5e27100f11",
+                  "error": false,
+                  "edit": false,
+                  "properties": {
+                    "text_color": "",
+                    "background_color": "",
+                    "edited": false,
+                    "source": {
+                      "id": "OpenAIModel-zdbzF",
+                      "display_name": "OpenAI",
+                      "source": "gpt-4.1-mini"
+                    },
+                    "icon": "OpenAI",
+                    "allow_markdown": false,
+                    "positive_feedback": null,
+                    "state": "complete",
+                    "targets": []
+                  },
+                  "category": "message",
+                  "content_blocks": [],
+                  "duration": null
+                }
+              },
+              "artifacts": {
+                "message": "Hey there! Great to see you here! How can I help you get started with building something awesome using generative AI today? 😊",
+                "sender": "Machine",
+                "sender_name": "AI",
+                "files": [],
+                "type": "object"
+              },
+              "outputs": {
+                "message": {
+                  "message": "Hey there! Great to see you here! How can I help you get started with building something awesome using generative AI today? 😊",
+                  "type": "text"
+                }
+              },
+              "logs": {
+                "message": []
+              },
+              "messages": [
+                {
+                  "message": "Hey there! Great to see you here! How can I help you get started with building something awesome using generative AI today? 😊",
+                  "sender": "Machine",
+                  "sender_name": "AI",
+                  "session_id": "user_1",
+                  "stream_url": null,
+                  "component_id": "ChatOutput-wvCpY",
+                  "files": [],
+                  "type": "text"
+                }
+              ],
+              "timedelta": null,
+              "duration": null,
+              "component_display_name": "Chat Output",
+              "component_id": "ChatOutput-wvCpY",
+              "used_frozen_result": false
+            }
+          ]
+        }
+      ]
+    },
+    "timestamp": "2025-05-30T15:24:39.840Z",
+    "session_id": "user_1"
+  },
+  {
+    "user": "hi",
+    "ai": {
+      "session_id": "user_1",
+      "outputs": [
+        {
+          "inputs": {
+            "input_value": "hi"
+          },
+          "outputs": [
+            {
+              "results": {
+                "message": {
+                  "text_key": "text",
+                  "data": {
+                    "timestamp": "2025-05-30 15:26:50 UTC",
+                    "sender": "Machine",
+                    "sender_name": "AI",
+                    "session_id": "user_1",
+                    "text": "Hey there! Great to see you here! How can I help you get started on your exciting journey with generative AI today? Are you looking to build something specific or just exploring ideas? Let’s dive in! 🚀",
+                    "files": [],
+                    "error": false,
+                    "edit": false,
+                    "properties": {
+                      "text_color": "",
+                      "background_color": "",
+                      "edited": false,
+                      "source": {
+                        "id": "OpenAIModel-zdbzF",
+                        "display_name": "OpenAI",
+                        "source": "gpt-4.1-mini"
+                      },
+                      "icon": "OpenAI",
+                      "allow_markdown": false,
+                      "positive_feedback": null,
+                      "state": "complete",
+                      "targets": []
+                    },
+                    "category": "message",
+                    "content_blocks": [],
+                    "id": "ea8a24bb-0324-4f75-9665-a7865a3e9d50",
+                    "flow_id": "2a6bbeb0-801d-49f1-833e-cd5e27100f11",
+                    "duration": null
+                  },
+                  "default_value": "",
+                  "text": "Hey there! Great to see you here! How can I help you get started on your exciting journey with generative AI today? Are you looking to build something specific or just exploring ideas? Let’s dive in! 🚀",
+                  "sender": "Machine",
+                  "sender_name": "AI",
+                  "files": [],
+                  "session_id": "user_1",
+                  "timestamp": "2025-05-30T15:26:50+00:00",
+                  "flow_id": "2a6bbeb0-801d-49f1-833e-cd5e27100f11",
+                  "error": false,
+                  "edit": false,
+                  "properties": {
+                    "text_color": "",
+                    "background_color": "",
+                    "edited": false,
+                    "source": {
+                      "id": "OpenAIModel-zdbzF",
+                      "display_name": "OpenAI",
+                      "source": "gpt-4.1-mini"
+                    },
+                    "icon": "OpenAI",
+                    "allow_markdown": false,
+                    "positive_feedback": null,
+                    "state": "complete",
+                    "targets": []
+                  },
+                  "category": "message",
+                  "content_blocks": [],
+                  "duration": null
+                }
+              },
+              "artifacts": {
+                "message": "Hey there! Great to see you here! How can I help you get started on your exciting journey with generative AI today? Are you looking to build something specific or just exploring ideas? Let’s dive in! 🚀",
+                "sender": "Machine",
+                "sender_name": "AI",
+                "files": [],
+                "type": "object"
+              },
+              "outputs": {
+                "message": {
+                  "message": "Hey there! Great to see you here! How can I help you get started on your exciting journey with generative AI today? Are you looking to build something specific or just exploring ideas? Let’s dive in! 🚀",
+                  "type": "text"
+                }
+              },
+              "logs": {
+                "message": []
+              },
+              "messages": [
+                {
+                  "message": "Hey there! Great to see you here! How can I help you get started on your exciting journey with generative AI today? Are you looking to build something specific or just exploring ideas? Let’s dive in! 🚀",
+                  "sender": "Machine",
+                  "sender_name": "AI",
+                  "session_id": "user_1",
+                  "stream_url": null,
+                  "component_id": "ChatOutput-wvCpY",
+                  "files": [],
+                  "type": "text"
+                }
+              ],
+              "timedelta": null,
+              "duration": null,
+              "component_display_name": "Chat Output",
+              "component_id": "ChatOutput-wvCpY",
+              "used_frozen_result": false
+            }
+          ]
+        }
+      ]
+    },
+    "timestamp": "2025-05-30T15:26:50.970Z",
+    "session_id": "user_1"
+  },
+  {
+    "user": "hi",
+    "ai": "Hey there! Great to see you here! How can I help you get started on your next awesome project with AI today? 😊",
+    "timestamp": "2025-05-30T15:31:10.716Z",
+    "session_id": "user_1"
+  },
+  {
+    "user": "helo",
+    "ai": "Hey there! Great to see you here! How can I help you get started on your next awesome project today? Are you interested in building something with AI, like a chatbot, image generator, or something else? Let’s make it happen! 🚀",
+    "timestamp": "2025-05-30T15:31:57.744Z",
+    "session_id": "user_1"
+  },
+  {
+    "user": "hi, who are you",
+    "ai": "Hello! I am Loyolite, your friendly AI assistant here to help you with any questions you have about Loyola College. How can I assist you today?",
+    "timestamp": "2025-05-30T15:59:54.987Z",
+    "session_id": "user_1"
+  },
+  {
+    "user": "where is loyola",
+    "ai": "Loyola College is located in Chennai, India. The address is Nungambakkam, Chennai, Tamil Nadu 600034.",
+    "timestamp": "2025-05-30T16:00:06.256Z",
+    "session_id": "user_1"
+  },
+  {
+    "user": "hi",
+    "ai": "Hello! How can I assist you today?",
+    "timestamp": "2025-05-30T16:03:02.726Z",
+    "session_id": "user_1"
+  },
+  {
+    "user": "hi",
+    "ai": "Hello! How can I assist you today?",
+    "timestamp": "2025-05-30T16:14:48.570Z",
+    "session_id": "user_1"
+  },
+  {
+    "user": "hi",
+    "ai": "Hello! How can I assist you today?",
+    "timestamp": "2025-05-30T16:15:00.930Z",
+    "session_id": "user_1"
+  },
+  {
+    "user": "who are you",
+    "ai": "Hello! I am Loyolite, your friendly AI assistant here to help you with any questions you have about Loyola College. Feel free to ask me anything you'd like to know!",
+    "timestamp": "2025-05-30T16:15:08.033Z",
+    "session_id": "user_1"
+  },
+  {
+    "user": "where is loyola",
+    "ai": "Loyola College is located in Chennai, India. The address is Loyola College, Sterling Road, Nungambakkam, Chennai - 600034, Tamil Nadu, India.",
+    "timestamp": "2025-05-30T16:16:08.931Z",
+    "session_id": "user_1"
+  },
+  {
+    "user": "hi",
+    "ai": "{\"detail\":\"{\\\"message\\\":\\\"Error running graph: Error building Component OpenAI: \\\\n\\\\nError code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************bCAA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}\\\",\\\"traceback\\\":null,\\\"description\\\":null,\\\"code\\\":null,\\\"suggestion\\\":null}\"}",
+    "timestamp": "2025-05-30T16:28:19.255Z",
+    "session_id": "user_1"
+  },
+  {
+    "user": "hello",
+    "ai": "{\"detail\":\"{\\\"message\\\":\\\"Error running graph: Error building Component OpenAI: \\\\n\\\\nError code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************bCAA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}\\\",\\\"traceback\\\":null,\\\"description\\\":null,\\\"code\\\":null,\\\"suggestion\\\":null}\"}",
+    "timestamp": "2025-05-30T16:28:40.871Z",
+    "session_id": "user_1"
+  }
+]
